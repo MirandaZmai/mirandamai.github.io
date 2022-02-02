@@ -177,7 +177,7 @@ body {
 	width: 32%;
 	/*	margin-left: 1%;*/
 }
-#skill_coding {
+#skill_programming {
 	display: block;
 	float: left;
 	width: 32%;
@@ -313,6 +313,11 @@ body {
 	background-color: pink;
 	padding-top: 30px;
 }
+#mkt_volun .volun_mid .img{
+width: 100%;
+display: block;
+
+
 #mkt_volun_top {
 	padding-bottom: 20px;
 	text-align: center;
