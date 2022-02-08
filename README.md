@@ -1,2 +1,0 @@
-# mirandamai.github.io
-website
